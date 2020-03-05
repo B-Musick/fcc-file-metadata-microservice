@@ -1,10 +1,10 @@
 /****** Main Styling ******/
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #ECF0F1;
+	background-color: rgb(245, 215, 169);
 	text-align: center;
 }
 
@@ -41,7 +41,8 @@ input#button {
   position:relative;
   margin: auto;
   margin-top: 40px;
-  border: 1px  solid  #aaa;
+  border: 1px  solid  rgb(100, 121, 113);
+  background-color: rgb(157, 197, 223);
   padding: 20px;
   width: 60%;
   min-width: 400px;
